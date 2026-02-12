@@ -2,7 +2,9 @@
 
 [![Paper](https://img.shields.io/badge/arXiv-2602.09475-b31b1b)](https://arxiv.org/abs/2602.09475)
 
-Pretrained VLMs already know how to detect artifacts in AI-generated images. With the right scaffolding, this capability can be unlocked using only a few hundred labeled examples, achieving state-of-the-art on five benchmarks while requiring orders of magnitude less data than fine-tuning.
+This is the repo for the paper [ArtifactLens](https://arxiv.org/abs/2602.09475).
+
+> Pretrained VLMs already know how to detect artifacts in AI-generated images. With the right scaffolding, this capability can be unlocked using only a few hundred labeled examples, achieving state-of-the-art on five benchmarks while requiring orders of magnitude less data than fine-tuning.
 
 ![ArtifactLens method overview](docs/assets/artifactlens-fig1.jpg)
 
